@@ -1,0 +1,9 @@
+{
+  "processingInstanceRecord" : {
+    "participantAcquirerBankSettlementTerms" : "participantAcquirerBankSettlementTerms",
+    "participantIssuerBankSettlementTerms" : "participantIssuerBankSettlementTerms"
+  },
+  "updateResponseRecord" : {},
+  "processingUpdateActionTaskRecord" : {},
+  "processingUpdateActionTaskReference" : "CFSPUATR762568"
+}

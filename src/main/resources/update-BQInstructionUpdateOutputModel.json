@@ -1,0 +1,9 @@
+{
+  "instructionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "instructionUpdateActionTaskReference" : "IUATR741927",
+  "instructionInstanceRecord" : {
+    "participantIssuerBankSettlementAccountStatement" : "participantIssuerBankSettlementAccountStatement",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement"
+  }
+}

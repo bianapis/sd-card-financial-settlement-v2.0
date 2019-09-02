@@ -1,0 +1,42 @@
+{
+  "consolidationInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "710895",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionMerchantReference" : "743281",
+      "cardTransactionIssuingBankReference" : "775906",
+      "cardTransactionProductServiceReference" : "776094",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "731009",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionLocationReference" : "750451",
+      "cardTransactionCurrency" : "USD"
+    },
+    "cardTransactionRecordReference" : "740236"
+  },
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "764291",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "776917"
+  },
+  "processingInstanceRecord" : {
+    "participantAcquirerBankSettlementTerms" : "participantAcquirerBankSettlementTerms",
+    "participantIssuerBankSettlementTerms" : "participantIssuerBankSettlementTerms"
+  },
+  "processingRetrieveActionTaskReference" : "CFSPRATR710338",
+  "processingInstanceReport" : {
+    "processingInstanceReportParameters" : "processingInstanceReportParameters",
+    "processingInstanceReportRecord" : {},
+    "processingInstanceReport" : {},
+    "processingInstanceReportType" : "processingInstanceReportType"
+  },
+  "processingRetrieveActionResponse" : "processingRetrieveActionResponse",
+  "processingInstanceAnalysis" : {
+    "processingInstanceAnalysisReportType" : "processingInstanceAnalysisReportType",
+    "processingInstanceAnalysisParameters" : "processingInstanceAnalysisParameters",
+    "processingInstanceAnalysisRecord" : {},
+    "processingInstanceAnalysisReport" : {}
+  },
+  "processingRetrieveActionTaskRecord" : {}
+}

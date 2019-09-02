@@ -1,0 +1,23 @@
+{
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "785203",
+    "cardFinancialSettlementProcessDateTime" : "09-22-2018",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "749926",
+    "networkReference" : "744617",
+    "cardFinancialSettlementProcessType" : "cardFinancialSettlementProcessType"
+  },
+  "cardFinancialSettlementProcedureInstanceAnalysis" : {
+    "cardFinancialSettlementProcedureInstanceAnalysisData" : "cardFinancialSettlementProcedureInstanceAnalysisData",
+    "cardFinancialSettlementProcedureInstanceAnalysisReport" : {},
+    "cardFinancialSettlementProcedureInstanceAnalysisReportType" : "cardFinancialSettlementProcedureInstanceAnalysisReportType"
+  },
+  "cardFinancialSettlementProcedureRetrieveActionResponse" : "cardFinancialSettlementProcedureRetrieveActionResponse",
+  "cardFinancialSettlementProcedureRetrieveActionTaskReference" : "CFSPRATR797575",
+  "cardFinancialSettlementProcedureInstanceReportRecord" : {
+    "cardFinancialSettlementProcedureInstanceReport" : {},
+    "cardFinancialSettlementProcedureInstanceReportType" : "cardFinancialSettlementProcedureInstanceReportType",
+    "cardFinancialSettlementProcedureInstanceReportData" : "cardFinancialSettlementProcedureInstanceReportData"
+  },
+  "cardFinancialSettlementProcedureRetrieveActionTaskRecord" : {}
+}

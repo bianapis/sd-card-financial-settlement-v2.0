@@ -1,0 +1,46 @@
+{
+  "instructionRetrieveActionTaskReference" : "IRATR794270",
+  "consolidationInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "745244",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionMerchantReference" : "756502",
+      "cardTransactionIssuingBankReference" : "702379",
+      "cardTransactionProductServiceReference" : "772661",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "749145",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionLocationReference" : "712808",
+      "cardTransactionCurrency" : "USD"
+    },
+    "cardTransactionRecordReference" : "709107"
+  },
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "785241",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "702862"
+  },
+  "instructionRetrieveActionTaskRecord" : {},
+  "processingInstanceRecord" : {
+    "participantAcquirerBankSettlementTerms" : "participantAcquirerBankSettlementTerms",
+    "participantIssuerBankSettlementTerms" : "participantIssuerBankSettlementTerms"
+  },
+  "instructionRetrieveActionResponse" : "instructionRetrieveActionResponse",
+  "instructionInstanceReport" : {
+    "instructionInstanceReportParameters" : "instructionInstanceReportParameters",
+    "instructionInstanceReportType" : "instructionInstanceReportType",
+    "instructionInstanceReport" : {},
+    "instructionInstanceReportRecord" : {}
+  },
+  "instructionInstanceRecord" : {
+    "participantIssuerBankSettlementAccountStatement" : "participantIssuerBankSettlementAccountStatement",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement"
+  },
+  "instructionInstanceAnalysis" : {
+    "instructionInstanceAnalysisParameters" : "instructionInstanceAnalysisParameters",
+    "instructionInstanceAnalysisRecord" : {},
+    "instructionInstanceAnalysisReport" : {},
+    "instructionInstanceAnalysisReportType" : "instructionInstanceAnalysisReportType"
+  }
+}

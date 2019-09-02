@@ -1,0 +1,21 @@
+{
+  "consolidationUpdateActionTaskRecord" : {},
+  "consolidationInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "719413",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionMerchantReference" : "736401",
+      "cardTransactionIssuingBankReference" : "710264",
+      "cardTransactionProductServiceReference" : "799879",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "737160",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionLocationReference" : "781137",
+      "cardTransactionCurrency" : "USD"
+    },
+    "cardTransactionRecordReference" : "748000"
+  },
+  "updateResponseRecord" : {},
+  "consolidationUpdateActionTaskReference" : "CUATR704869"
+}

@@ -1,0 +1,10 @@
+{
+  "cardFinancialSettlementProcedureInitiateActionReference" : "CFSPIAR742221",
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "cardFinancialSettlementProcessDateTime" : "09-22-2018",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule"
+  },
+  "cardFinancialSettlementProcedureInstanceReference" : "CFSPIR751186",
+  "cardFinancialSettlementProcedureInstanceStatus" : "cardFinancialSettlementProcedureInstanceStatus",
+  "cardFinancialSettlementProcedureInitiateActionRecord" : {}
+}

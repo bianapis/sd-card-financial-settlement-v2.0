@@ -1,0 +1,12 @@
+{
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "749170",
+    "cardFinancialSettlementProcessDateTime" : "09-22-2018",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "764657",
+    "cardFinancialSettlementProcessType" : "cardFinancialSettlementProcessType"
+  },
+  "cardFinancialSettlementProcedureUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "cardFinancialSettlementProcedureUpdateActionTaskReference" : "CFSPUATR749281"
+}

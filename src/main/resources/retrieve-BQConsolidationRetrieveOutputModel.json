@@ -1,0 +1,38 @@
+{
+  "consolidationInstanceReport" : {
+    "consolidationInstanceReportType" : "consolidationInstanceReportType",
+    "consolidationInstanceReport" : {},
+    "consolidationInstanceReportParameters" : "consolidationInstanceReportParameters",
+    "consolidationInstanceReportRecord" : {}
+  },
+  "consolidationInstanceAnalysis" : {
+    "consolidationInstanceAnalysisReportType" : "consolidationInstanceAnalysisReportType",
+    "consolidationInstanceAnalysisParameters" : "consolidationInstanceAnalysisParameters",
+    "consolidationInstanceAnalysisRecord" : {},
+    "consolidationInstanceAnalysisReport" : {}
+  },
+  "consolidationInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "702008",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionMerchantReference" : "777440",
+      "cardTransactionIssuingBankReference" : "775375",
+      "cardTransactionProductServiceReference" : "748247",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "727697",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionLocationReference" : "793451",
+      "cardTransactionCurrency" : "USD"
+    },
+    "cardTransactionRecordReference" : "721282"
+  },
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "795292",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "783258"
+  },
+  "consolidationRetrieveActionTaskRecord" : {},
+  "consolidationRetrieveActionResponse" : "consolidationRetrieveActionResponse",
+  "consolidationRetrieveActionTaskReference" : "CRATR754297"
+}

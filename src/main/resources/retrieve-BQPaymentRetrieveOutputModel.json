@@ -1,0 +1,49 @@
+{
+  "paymentRetrieveActionResponse" : "paymentRetrieveActionResponse",
+  "consolidationInstanceRecord" : {
+    "cardTransactionRecord" : {
+      "cardTransactionProductInstanceReference" : "712781",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionMerchantReference" : "793205",
+      "cardTransactionIssuingBankReference" : "798101",
+      "cardTransactionProductServiceReference" : "707863",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "746834",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionLocationReference" : "720029",
+      "cardTransactionCurrency" : "USD"
+    },
+    "cardTransactionRecordReference" : "765357"
+  },
+  "paymentRetrieveActionTaskReference" : "CFSPRATR733628",
+  "cardFinancialSettlementProcedureInstanceRecord" : {
+    "participantAcquirerBankReference" : "713154",
+    "cardFinancialSettlementServiceSchedule" : "cardFinancialSettlementServiceSchedule",
+    "participantIssuerBankReference" : "732425"
+  },
+  "paymentRetrieveActionTaskRecord" : {},
+  "processingInstanceRecord" : {
+    "participantAcquirerBankSettlementTerms" : "participantAcquirerBankSettlementTerms",
+    "participantIssuerBankSettlementTerms" : "participantIssuerBankSettlementTerms"
+  },
+  "paymentInstanceRecord" : {
+    "participantPaymentTransaction" : "participantPaymentTransaction"
+  },
+  "paymentInstanceReport" : {
+    "paymentInstanceReportParameters" : "paymentInstanceReportParameters",
+    "paymentInstanceReportType" : "paymentInstanceReportType",
+    "paymentInstanceReportRecord" : {},
+    "paymentInstanceReport" : {}
+  },
+  "paymentInstanceAnalysis" : {
+    "paymentInstanceAnalysisReport" : {},
+    "paymentInstanceAnalysisParameters" : "paymentInstanceAnalysisParameters",
+    "paymentInstanceAnalysisReportType" : "paymentInstanceAnalysisReportType",
+    "paymentInstanceAnalysisRecord" : {}
+  },
+  "instructionInstanceRecord" : {
+    "participantIssuerBankSettlementAccountStatement" : "participantIssuerBankSettlementAccountStatement",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement"
+  }
+}

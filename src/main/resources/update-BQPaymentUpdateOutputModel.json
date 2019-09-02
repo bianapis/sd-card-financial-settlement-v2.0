@@ -1,0 +1,8 @@
+{
+  "paymentUpdateActionTaskReference" : "CFSPUATR749895",
+  "paymentInstanceRecord" : {
+    "participantPaymentTransaction" : "participantPaymentTransaction"
+  },
+  "paymentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}
